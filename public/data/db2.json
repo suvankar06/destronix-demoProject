@@ -1,0 +1,18 @@
+[
+{
+    "id": 1,
+    "name": "Head First JAVA",
+    "Cost": "$20",
+    "Copies": "45",
+    "ISBN": "023546875",
+    "Author":"Suvankar"
+},
+  {
+    "id": 2,
+    "name": "Python",
+    "Cost": "$35",
+    "Copies": "45",
+    "ISBN": "23564895",
+    "Author":"Suvankar"
+  }
+]

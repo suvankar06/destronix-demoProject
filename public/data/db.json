@@ -1,0 +1,50 @@
+  [
+    {
+      "id": 1,
+      "name": "Head First JAVA",
+      "Cost": "$20",
+      "Copies": "45",
+      "ISBN": "023546875",
+      "Author":"Suvankar"
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "Cost": "$35",
+      "Copies": "45",
+      "ISBN": "23564895",
+      "Author":"Suvankar"
+    },
+    {
+      "id": 3,
+      "name": "Let Us C",
+      "Cost": "$10",
+      "Copies": "45",
+      "ISBN": "252525252",
+      "Author":"Suvankar"
+    },
+    {
+      "id": 4,
+      "name": "Evolution Biology",
+      "Cost": "$14",
+      "Copies": "4.5",
+      "ISBN": "2113456",
+      "Author":"Suvankar"
+    },
+    {
+      "name": "World History",
+      "ISBN": "45645564",
+      "Copies": "45",
+      "Cost": "$15",
+      "id": 5,
+      "Author":"Suvankar"
+    },
+    {
+      "name": "Theory of Thermodynamics",
+      "ISBN": "45612398",
+      "Copies": "42",
+      "Cost": "$20",
+      "id": 6,
+      "Author":"Suvankar"
+    }
+  ]

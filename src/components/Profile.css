@@ -1,0 +1,20 @@
+.profile-wrapper{
+    display:flex;
+    justify-content: space-around;
+  margin: 98px 20px;  
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+.profile-wrapper img{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+}
+.profile-content{
+    margin-top: 150px;
+    margin-right: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    margin-top: 60px;
+}

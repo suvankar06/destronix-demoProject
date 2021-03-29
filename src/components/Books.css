@@ -1,0 +1,30 @@
+.table{
+  border-collapse: collapse;
+  width:100% ;
+  margin-bottom: 20px;
+}
+.table td , .table th{
+  border:1px solid #ddd;
+  padding: 8px;
+}
+.table th{
+ padding-top: 12px;
+ padding-bottom: 12px;
+ text-align: center;
+ background-color: #18bee7;
+ color: white;
+}
+.table td{
+  padding-top: 12px;
+ padding-bottom: 12px;
+ text-align: center;
+}
+.table thead:nth-child(even){
+background-color: #f2f2f2;
+}
+.table tr:hover{
+  background-color: #ddd;
+}
+.App h1{
+  margin-top: 100px;
+}
